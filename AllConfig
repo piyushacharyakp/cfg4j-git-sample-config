@@ -1,1 +1,1 @@
-
+java -DAPPLICATION_INSIGHTS_IKEY="2f7c3cc0-3cac-4e3d-9ad6-03777db83c79" -jar gs-spring-boot-0.1.0.jar
